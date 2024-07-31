@@ -7,9 +7,10 @@
 - 🌱 I’m currently learning more about data analytics. Also firebase and Google Analytics 4
 - ⚡ Fun fact: I have a bachelors in game design
 
-## Tech I can use
+## Tools I can use
 - Bigquery
 - Tableau
+- Microsoft Excel/Google sheets
 
 ## Languages
 - SQL (Intermediate)
