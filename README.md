@@ -1,13 +1,17 @@
 # Hellooo 👋
-### My name is Josh Bryan and I am a data analyst. 
+
+![tumblr_b5245a7aa67609d1eb23851ec43f0664_5825d444_500-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/4999e8b4-e383-4d3a-af7a-6cc5bb7e60c0)
 
 ## Want to know about me?
+
+### My name is Josh Bryan and I am a data analyst. 
+
 - 🔍 I specialize in product and marketing analysis
 - 🎮 My passion is in gaming, media and technology
 - 🌱 I’m currently learning more about data analytics. Also firebase and Google Analytics 4
 - ⚡ Fun fact: I have a bachelors in game design
 
-## Tools I can use
+## Tools I use
 - Bigquery
 - Tableau
 - Microsoft Excel/Google sheets
