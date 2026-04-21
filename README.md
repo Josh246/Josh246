@@ -4,21 +4,21 @@
 
 ## Want to know about me?
 
-### My name is Josh Bryan and I am a data analyst. 
+### I'm Josh Bryan, QA Engineer. 
 
-- 🔍 I specialize in product and marketing analysis
+- 🔍 I do both QA Automation and Manual testing
 - 🎮 My passion is in gaming, media and technology
-- 🌱 I’m currently learning more about data analytics. Also firebase and Google Analytics 4
+- 🌱 Always learning more about Automation quality assurance
 - ⚡ Fun fact: I have a bachelors in game design
 
 ## Tools I use
-- Bigquery
-- Tableau
-- Microsoft Excel/Google sheets
+- Playwright
+- Visual Studio Code
+- Bitbucket
 
 ## Languages
-- SQL (Intermediate)
-- Python (basic)
+- Typescript
+- SQL
 <!--
 **Josh246/Josh246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
